@@ -59,6 +59,11 @@ $(function () {
                         >
                         </li> 
                         <li>
+                        <a class="dropdown-item" href="wisdomcircle.html"
+                            >Shamanic Wisdom Circle</a
+                        >
+                        </li>
+                        <li>
                         <a class="dropdown-item" href="warrior.html"
                             >Path of the warrior</a
                         >
