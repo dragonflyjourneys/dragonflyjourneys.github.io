@@ -44,14 +44,15 @@ $(function () {
                         class="dropdown-menu dropdown-menu-end"
                         aria-labelledby="navbarDropdownBlog"
                     >
+                    <li>
+                    <a class="dropdown-item" href="kambo.html">Kambo Healing</a>
+                    </li>
                         <li>
                         <a class="dropdown-item" href="integration.html"
                             >Psychedelic Integration</a
                         >
                         </li>
-                        <li>
-                        <a class="dropdown-item" href="kambo.html">Kambo Healing</a>
-                        </li>
+             
                         <li>
                         <a class="dropdown-item" href="microdosing.html"
                             >Microdosing Guidance</a
