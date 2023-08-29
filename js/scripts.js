@@ -47,6 +47,9 @@ $(function () {
                     <li>
                     <a class="dropdown-item" href="kambo.html">Kambo Healing</a>
                     </li>
+                    <li>
+                    <a class="dropdown-item" href="psilohuasca.html">Psilohuasca</a>
+                    </li>
                         <li>
                         <a class="dropdown-item" href="integration.html"
                             >Psychedelic Integration</a
@@ -60,7 +63,12 @@ $(function () {
                         </li> 
                         <li>
                         <a class="dropdown-item" href="wisdomcircle.html"
-                            >Shamanic Wisdom Circle</a
+                            >Shamanic Wisdom Circles</a
+                        >
+                        </li>
+                        <li>
+                        <a class="dropdown-item" href="assistance.html"
+                            >Trip Crisis Assistance</a
                         >
                         </li>
                         <li>
