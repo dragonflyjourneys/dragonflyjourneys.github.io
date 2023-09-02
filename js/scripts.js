@@ -79,6 +79,9 @@ $(function () {
                     </ul>
                     </li>
                     <li class="nav-item">
+                    <a class="nav-link" href="feedback.html">Testimonials</a>
+                    </li>
+                    <li class="nav-item">
                     <a class="nav-link" href="contact.html">Contact</a>
                     </li>
                 </ul>
