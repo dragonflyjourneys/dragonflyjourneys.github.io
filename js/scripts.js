@@ -45,22 +45,27 @@ $(function () {
                         aria-labelledby="navbarDropdownBlog"
                     >
                     <li>
+                    <a class="dropdown-item" href="preparation.html">Preparation</a>
+                    </li>
+                    <li>
+                    <a class="dropdown-item" href="microdosing.html"
+                        >Microdosing Guidance</a
+                    >
+                    </li> 
+                    <li>
+                    <a class="dropdown-item" href="integration.html"
+                        >Psychedelic Integration</a
+                    >
+                    </li>
+                    <li>
                     <a class="dropdown-item" href="kambo.html">Kambo Healing</a>
                     </li>
                     <li>
                     <a class="dropdown-item" href="psilohuasca.html">Psilohuasca</a>
                     </li>
-                        <li>
-                        <a class="dropdown-item" href="integration.html"
-                            >Psychedelic Integration</a
-                        >
-                        </li>
+  
              
-                        <li>
-                        <a class="dropdown-item" href="microdosing.html"
-                            >Microdosing Guidance</a
-                        >
-                        </li> 
+
                         <li>
                         <a class="dropdown-item" href="wisdomcircle.html"
                             >Shamanic Wisdom Circles</a
