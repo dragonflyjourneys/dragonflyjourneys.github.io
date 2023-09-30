@@ -45,7 +45,7 @@ $(function () {
                         aria-labelledby="navbarDropdownBlog"
                     >
                     <li>
-                    <a class="dropdown-item" href="preparation.html">Preparation</a>
+                    <a class="dropdown-item" href="preparation.html">Journey Preparation</a>
                     </li>
                     <li>
                     <a class="dropdown-item" href="microdosing.html"
@@ -85,6 +85,14 @@ $(function () {
                     </li>
                     <li class="nav-item">
                     <a class="nav-link" href="feedback.html">Testimonials</a>
+                    </li>
+                    <li class="nav-item ">
+                    <a
+                        class="nav-link "
+                        href="training.html"
+                        >Training</a>
+      
+
                     </li>
                     <li class="nav-item">
                     <a class="nav-link" href="contact.html">Contact</a>
