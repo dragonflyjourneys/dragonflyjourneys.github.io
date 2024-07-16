@@ -27,9 +27,15 @@ $(function () {
                     <li class="nav-item">
                     <a class="nav-link" href="index.html">Home</a>
                     </li>
-                    <li class="nav-item">
-                    <a class="nav-link" href="about.html">About</a>
+                    <li class="nav-item ">
+                    <a
+                        class="nav-link "
+                        href="training.html"
+                        >Education</a>
+      
+
                     </li>
+              
                     <li class="nav-item dropdown">
                     <a
                         class="nav-link dropdown-toggle"
@@ -68,17 +74,14 @@ $(function () {
     
                     </ul>
                     </li>
+           
                     <li class="nav-item">
                     <a class="nav-link" href="feedback.html">Testimonials</a>
                     </li>
-                    <li class="nav-item ">
-                    <a
-                        class="nav-link "
-                        href="training.html"
-                        >Education</a>
-      
-
+                    <li class="nav-item">
+                    <a class="nav-link" href="about.html">About</a>
                     </li>
+
                     <li class="nav-item">
                     <a class="nav-link" href="contact.html">Contact</a>
                     </li>
