@@ -75,7 +75,7 @@ $(function () {
                     <a
                         class="nav-link "
                         href="training.html"
-                        >Training</a>
+                        >Education</a>
       
 
                     </li>
