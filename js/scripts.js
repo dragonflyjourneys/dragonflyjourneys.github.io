@@ -30,19 +30,20 @@ $(function () {
                     <li class="nav-item ">
                     <a
                         class="nav-link "
-                        href="education.html"
-                        >Education</a>
+                        href="training.html"
+                        >Trainings</a>
       
 
                     </li>
                     <li class="nav-item ">
                     <a
                         class="nav-link "
-                        href="training.html"
-                        >Training</a>
+                        href="education.html"
+                        >Education</a>
       
 
                     </li>
+
               
                     <li class="nav-item dropdown">
                     <a
