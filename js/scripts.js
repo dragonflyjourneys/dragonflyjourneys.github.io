@@ -69,7 +69,11 @@ $(function () {
                     <li>
                     <a class="dropdown-item" href="kambo.html">Kambo Healing</a>
                     </li>
-        
+                    <li>
+                    <a class="dropdown-item" href="psilohuasca.html"
+                      >Psilohuasca</a
+                    >
+                  </li>
   
              
 
@@ -79,7 +83,11 @@ $(function () {
                             >Trip Crisis Assistance</a
                         >
                         </li>
-    
+                        <li>
+                        <a class="dropdown-item" href="warrior.html"
+                          >Path of the Warrior</a
+                        >
+                      </li>
                     </ul>
                     </li>
            
