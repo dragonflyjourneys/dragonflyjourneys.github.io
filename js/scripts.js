@@ -30,8 +30,16 @@ $(function () {
                     <li class="nav-item ">
                     <a
                         class="nav-link "
-                        href="training.html"
+                        href="education.html"
                         >Education</a>
+      
+
+                    </li>
+                    <li class="nav-item ">
+                    <a
+                        class="nav-link "
+                        href="training.html"
+                        >Training</a>
       
 
                     </li>
