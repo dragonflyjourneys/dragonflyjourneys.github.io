@@ -64,17 +64,12 @@ $(function () {
                     </li>
                     <li>
                     <a class="dropdown-item" href="microdosing.html"
-                        >Microdosing Guidance</a
-                    >
+                        >Microdosing Guidance</a>
                     </li> 
                     <li>
                     <a class="dropdown-item" href="kambo.html">Kambo Healing</a>
                     </li>
-                    <li>
-                    <a class="dropdown-item" href="psilohuasca.html"
-                      >Psilohuasca</a
-                    >
-                  </li>
+  
   
              
 
