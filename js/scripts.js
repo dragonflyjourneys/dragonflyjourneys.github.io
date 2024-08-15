@@ -175,8 +175,8 @@ $(function () {
                   >
                   </li>
                   <li>
-                  <a class="dropdown-item" href="warrior.html"
-                    >Path of the Warrior</a
+                  <a class="dropdown-item" href="psilohuasca.html"
+                    >Psylohuasca</a
                   >
                 </li>
               </ul>
