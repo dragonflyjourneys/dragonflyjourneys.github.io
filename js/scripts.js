@@ -10,7 +10,7 @@ $(function () {
   $("#nav").html(`
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
             <div class="container px-5">
-                <a class="navbar-brand" href="index.html">Dragonfly Journeys</a>
+                <a class="navbar-brand" href="index.html">Dragonfly Academy</a>
                 <button
                 class="navbar-toggler"
                 type="button"
