@@ -97,7 +97,7 @@ $(function () {
                         </li>
                         <li>
                         <a class="dropdown-item" href="psilohuasca.html"
-                          >Psylohuasca</a
+                          >Harmal-huasca</a
                         >
                       </li>
                     </ul>
