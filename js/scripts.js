@@ -84,7 +84,7 @@ $(function () {
                     </li> 
                       <li>
                     <a class="dropdown-item" href="coaching.html"
-                        >Microdosing Coaching</a>
+                        >Microdosing for Coaches</a>
                     </li> 
                     <li>
                     <a class="dropdown-item" href="kambo.html">Kambo Healing</a>
