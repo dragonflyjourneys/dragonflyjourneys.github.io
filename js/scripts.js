@@ -193,7 +193,10 @@ $(function () {
               <a class="dropdown-item" href="kambo.html">Kambo Healing</a>
               </li>
 
-
+     <li>
+                    <a class="dropdown-item" href="coaching.html"
+                        >Microdosing for Coaches</a>
+                    </li> 
        
 
          
@@ -204,7 +207,7 @@ $(function () {
                   </li>
                   <li>
                   <a class="dropdown-item" href="psilohuasca.html"
-                    >Psylohuasca</a
+                    >Harmal-huasca</a
                   >
                 </li>
               </ul>
