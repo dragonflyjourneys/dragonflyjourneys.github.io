@@ -48,8 +48,6 @@ $(function () {
                         class="nav-link "
                         href="integration.html"
                         >Coaching</a>
-      
-
                     </li>
                     <li class="nav-item ">
                     <a
@@ -158,6 +156,12 @@ $(function () {
 
 
               </li>
+               <li class="nav-item ">
+                    <a
+                        class="nav-link "
+                        href="integration.html"
+                        >Coaching</a>
+                    </li>
               <li class="nav-item ">
               <a
                   class="nav-link "
